@@ -30,6 +30,7 @@ Tombol-tombol interaksi:
 - Form input dikosongkan kembali setelah data ditambahkan.
 - Muncul notifikasi "Data berhasil ditambahkan!".
 
+---
 3. Mengubah Data (Update Data)
 - Pengguna mengklik salah satu baris di tabel.
 - Data dari baris yang dipilih akan otomatis muncul di form input.
@@ -42,6 +43,7 @@ Tombol-tombol interaksi:
 - Form input dikosongkan kembali setelah update selesai.
 - Muncul notifikasi "Data berhasil diubah!".
 
+---
 4. Menghapus Data (Delete Data)
 - Pengguna mengklik salah satu baris di tabel untuk memilih data yang akan dihapus.
 - Tombol Delete akan muncul.
@@ -50,6 +52,7 @@ Tombol-tombol interaksi:
 - Form input dikosongkan kembali setelah data dihapus.
 - Muncul notifikasi "Data berhasil dihapus!".
 
+---
 5. Mengosongkan Form (Cancel Button)
 - Jika pengguna ingin membatalkan atau mengosongkan form, tombol Cancel bisa ditekan.
 - Semua input akan dikosongkan, tombol Update kembali menjadi Add, dan tombol Delete disembunyikan.
