@@ -20,6 +20,7 @@ Tombol-tombol interaksi:
 - Delete (tersembunyi hingga data dipilih).
 - Cancel untuk mengosongkan form.
 
+---
 2. Menambah Data (Add Data)
 - Pengguna mengisi NIM, Nama, Jenis Kelamin, dan Fakultas di form input.
 - Menekan tombol "Add".
